@@ -73,7 +73,10 @@ const dark = (dar) => {
 	console.log(`AFN => darts | EL => ${dar}`)
 	
 }
+
+let nowitis = 3
 dark('test')
+console.log(`Nowitis =>> `, nowitis);
 
 
 
